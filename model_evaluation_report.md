@@ -3,7 +3,7 @@
 * The house price prediction model was built using Linear Regression.
 * The dataset was split into training and testing sets (80/20).
 
-## Performance Metrics
+## Performance Metrics:
 * Mean Absolute Error (MAE): 2188736.343703811
 * Mean Square Error (MSE): 8454330868276.596
 * Root Mean Square Error:(RMSE): 2907633.2073142575
@@ -14,7 +14,7 @@
 - Location
 - Property Type
 
-## Interpretation
+## Interpretation:
 * The model explains approximately 78% of the variance in house prices.
 * Area and location were identified as the most influential features.
 
